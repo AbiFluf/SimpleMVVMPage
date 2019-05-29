@@ -1,0 +1,15 @@
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\bin\Debug\SimpleLoginMVVM.exe.config
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\bin\Debug\SimpleLoginMVVM.exe
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\bin\Debug\SimpleLoginMVVM.pdb
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM.csprojAssemblyReference.cache
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\App.g.cs
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM_MarkupCompile.cache
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM_MarkupCompile.lref
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\MainWindow.baml
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM.g.resources
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM.Properties.Resources.resources
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM.csproj.GenerateResource.cache
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM.csproj.CoreCompileInputs.cache
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM.exe
+C:\Users\abigail\source\repos\SimpleLoginMVVM\SimpleLoginMVVM\obj\Debug\SimpleLoginMVVM.pdb
